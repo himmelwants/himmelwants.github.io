@@ -290,5 +290,4 @@ defaults:
       comments: # true
       share: true
       related: true
-plugins:
-                  - jekyll-paginate
+plugins: - jekyll-paginate
